@@ -1,1 +1,1 @@
-export const base_url="https://student-mangement-1-1qxw.onrender.com"
+export const base_url="https://student-mangement-1-1qxw.onrender.com/api"
