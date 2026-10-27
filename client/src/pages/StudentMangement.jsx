@@ -81,7 +81,7 @@ const StudentMangement = () => {
 
   return (
     <div className="max-w-4xl mx-auto p-6">
-      <h1 className="text-2xl font-bold text-center mb-6">🎓 Student Management</h1>
+      <h1 className="text-2xl font-bold text-center mb-6">🎓 Student Managements</h1>
 
       <div className="flex gap-2 mb-4">
         <input
@@ -152,7 +152,7 @@ const StudentMangement = () => {
         <table className="w-full border border-gray-300 rounded-lg text-center">
           <thead className="bg-blue-100">
             <tr>
-              <th className="p-3 border font-semibold">Name</th>
+              <th className="p-3 border font-semibold">Namess</th>
               <th className="p-3 border font-semibold">Email</th>
               <th className="p-3 border font-semibold">Course</th>
               <th className="p-3 border font-semibold">Age</th>
